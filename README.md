@@ -40,4 +40,4 @@ No Arduino libraries used.
 ---
 
 ## 🎥 Demo Video
-[[Watch on YouTube](https://youtu.be/pMYFhm3lSEM?si=e7MwhSE4i86FZRCl)]
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube)](https://youtu.be/pMYFhm3lSEM?si=e7MwhSE4i86FZRCl)
